@@ -1,0 +1,8 @@
+Nombre y apellido: Geronimo Bisanzio
+IP: 192.168.56.1
+Hora: 12:03:46
+
+
+Nombre y apellido: Nicolas Morales
+IP: 192.168.56.1
+Hora: 11:53:22
